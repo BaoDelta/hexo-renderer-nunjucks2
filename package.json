@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-nunjucks2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nunjucks renderer for Hexo with absolute paths",
   "main": "index.js",
   "dependencies": {
