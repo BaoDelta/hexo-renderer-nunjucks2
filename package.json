@@ -1,10 +1,20 @@
 {
   "name": "hexo-renderer-nunjucks2",
   "version": "1.0.0",
-  "author": "Bao Dang <dangvinhbao@gmail.com>",
-  "license": "MIT",
+  "description": "Nunjucks renderer for Hexo with absolute paths",
+  "main": "index.js",
   "dependencies": {
     "lodash": "^3.10.1",
     "nunjucks": "^2.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaoDelta/hexo-renderer-nunjucks2.git"
+  },
+  "author": "Bao Dang <dangvinhbao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BaoDelta/hexo-renderer-nunjucks2/issues"
+  },
+  "homepage": "https://github.com/BaoDelta/hexo-renderer-nunjucks2#readme"
 }
