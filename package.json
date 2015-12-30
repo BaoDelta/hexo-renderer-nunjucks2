@@ -3,10 +3,6 @@
   "version": "1.0.1",
   "description": "Nunjucks renderer for Hexo with absolute paths",
   "main": "index.js",
-  "dependencies": {
-    "lodash": "^3.10.1",
-    "nunjucks": "^2.2.0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BaoDelta/hexo-renderer-nunjucks2.git"
@@ -16,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/BaoDelta/hexo-renderer-nunjucks2/issues"
   },
-  "homepage": "https://github.com/BaoDelta/hexo-renderer-nunjucks2#readme"
+  "homepage": "https://github.com/BaoDelta/hexo-renderer-nunjucks2#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "nunjucks": "^2.2.0"
+  }
 }
